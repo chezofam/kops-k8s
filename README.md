@@ -69,10 +69,10 @@ You Created. --> Save.
 # 6) create an S3 bucket
 # Execute the commands below in your KOPS control Server. use unique s3 bucket name. If you get bucket name exists error.
 
-	aws s3 mb s3://pearlN
+	aws s3 mb s3://pearln
 	aws s3 ls
 	
-    ex: s3://pearlN
+    ex: s3://pearln
   
 	Expose environment variable:
 
